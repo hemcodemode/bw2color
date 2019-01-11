@@ -1,0 +1,7 @@
+Flask
+gunicorn
+Pillow
+numpy
+imutils
+opencv-python==3.3.0.9
+requests
